@@ -15,8 +15,8 @@ I believe in lifelong learning and the power of collaboration. Whether it's anal
 </p>
 
 <ul>
-  <li>🔭 I’m currently working on <b>Swift-Lessons-Content Creation</b></li>
-  <li>🌱 I’m currently learning <b>Power BI</b></li>
+  <li>🔭 I’m currently working on <b>Lessons-Content-Creation</b></li>
+  <li>🌱 I’m currently learning <b>Swift</b></li>
   <li>👯 I’m looking to collaborate on <b>software development and data-driven projects</b></li>
   <li>🤝 I’m looking for help with <b>remote opportunities in software development, project management, and IT</b></li>
   <li>📫 How to reach me <b>cem.aksoy1@bahcesehir.edu.tr</b></li>
